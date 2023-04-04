@@ -1,0 +1,38 @@
+<html lang="en" data-textdirection="ltr" class="loaded">
+<head>
+    <!-- Meta Information -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+
+
+
+
+    <title>Signed URLs | PatooworldElevation</title>
+    <meta name="description" content=">File converter service - more than 200 different audio, video, document, ebook, archive, image, spreadsheet and presentation formats supported.">
+
+
+    <link rel="shortcut icon" href=https://patooworld.com"/images/logo_flat_32.png">
+    <link rel="preconnect" href="https://api.patooworld.com">
+
+    
+
+
+
+<!-- CSS -->
+    <link href="/css/app.css?id=debb10a8ac792fe39b45" rel="stylesheet">
+
+
+    <script>
+        window.app = {
+            env: 'production',
+            url: 'https://patooworld.com',
+            apiUrl: 'https://api.patooworld.com',
+            liveUrl: 'https://patooworld.com',
+            sandboxUrl: 'https://sandbox.patooworld.com',
+            socketioUrl: 'https://socketio.patooworld.com',
+            routeName: 'apidocs.signed-urls'
+        };
+    </script>
